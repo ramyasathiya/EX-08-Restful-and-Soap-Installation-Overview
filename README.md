@@ -7,7 +7,7 @@
 
 To create a simple RESTful API built with Flask that adds two numbers using GET or POST requests. It can handle both JSON and URL parameters to perform addition.
 
-# Addition API with Flask - README
+# Addition API with Flask 
 
 This is a simple RESTful API built with Flask that adds two numbers using GET or POST requests. It can handle both JSON and URL parameters to perform addition.
 
